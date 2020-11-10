@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="droneSimulator.Drone" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/Drone.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="301" x="5" y="3"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="droneSimulator.FlyDrone" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/FlyDrone.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="227" width="180" x="3" y="659"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="droneSimulator.FrenzyDrone" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/FrenzyDrone.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="278" y="780"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="droneSimulator.Obstacle" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/Obstacle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1172" y="628"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="droneSimulator.PlayerObstacle" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/PlayerObstacle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="487" y="579"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="droneSimulator.Block" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/Block.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="916" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="droneSimulator.VoidObstacle" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/VoidObstacle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="493" y="783"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="droneSimulator.MyCanvas" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/MyCanvas.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1192" y="167"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="droneSimulator.DroneInterface" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/DroneInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="871" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="droneSimulator.DroneArena" project="DoneGUI" 
+    file="/DoneGUI/src/droneSimulator/DroneArena.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="546" y="241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="11">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="12" name="allDrones"/>      
+      <multiplicity id="13" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="14">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="15" name="arena"/>      
+      <multiplicity id="16" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="18">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="19" name="allObstacles"/>      
+      <multiplicity id="20" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="22" name="mc"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
